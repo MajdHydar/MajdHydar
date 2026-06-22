@@ -4,7 +4,7 @@
 AI and fintech tools. I design and ship production web apps end to end: frontend,
 backend, database, and security.
 
-🇸🇦 Riyadh, Saudi Arabia · 🎓 Cybersecurity student · 🌐 Arabic & English
+🇸🇦 Khobar, Saudi Arabia · 🎓 Cybersecurity student · 🌐 Arabic & English
 
 ### 🚀 What I'm building
 Hesas (hesas.io) — a Saudi platform documenting & trading partnership shares.
